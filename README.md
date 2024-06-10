@@ -12,4 +12,4 @@ Steps includes:
 3. Data Cleaning
 4. Data Processing
 5. Dashboard creation
-6. Insights from Analysis:
+6. Insights from Analysis
